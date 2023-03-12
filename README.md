@@ -12,12 +12,22 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 Explicar como executar os testes automatizados para este sistema.
 
+### Instalar dependências
+
+```
+git clone https://github.com/erkmnasc/CodeceptJS-Web.git
+```
+```
+npm install
+```
+
+
 ### 🔩 Analise os testes de ponta a ponta
 
 Digito o código para iniciar os testes automatizados.
 
 ```
-npx codeceptjs run
+npx codeceptjs run --steps
 ```
 
 ## 🛠️ Construído com
@@ -31,7 +41,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **QA** - *Automação* e *Documentação* - [Erick Nascimento](https://github.com/erkmnasc)
+* **QA** - *Automação* - *Documentação* [Erick Nascimento](https://github.com/erkmnasc)
 
 ## 🎁 Expressões de gratidão
 
