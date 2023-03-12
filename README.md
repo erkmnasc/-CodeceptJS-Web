@@ -41,7 +41,11 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **QA** - *Automação* - *Documentação* [Erick Nascimento](https://github.com/erkmnasc)
+* **QA** - *Automação* - *Documentação* [Erick Nascimento]
+GitHub - (https://github.com/erkmnasc)
+Linkedin - (https://www.linkedin.com/in/erick-nascimento/)
+GitShowCase - (https://www.gitshowcase.com/erkmnasc)
+
 
 ## 🎁 Expressões de gratidão
 
